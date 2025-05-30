@@ -14,10 +14,12 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </p>
 
-<!-- 사용한 언어 순위 카드 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jh010303&layout=compact&theme=algolia)
-<!-- GitHub Stats Card -->
-[![jh010303's GitHub stats](https://github-readme-stats.vercel.app/api?username=jh010303&show_icons=true&theme=tokyonight)](https://github.com/jh010303/github-readme-stats)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=jh010303&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh010303&layout=compact&theme=algolia" />
+</p>
+
+
 <br/><br/>
 ## Algorithm
 <!-- solved.ac 프로필 -->
