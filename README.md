@@ -24,11 +24,9 @@
   <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/>
 
 </p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=jh010303&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh010303&layout=compact&theme=algolia" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jh010303&show_icons=true&locale=en&layout=compact&theme=algolia" alt="jh010303" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jh010303&show_icons=true&locale=en&theme=tokyonight" alt="jh010303" /></p>
 
 <br/><br/>
 ## :pencil2: Algorithm
