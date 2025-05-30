@@ -28,7 +28,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jh010303&show_icons=true&locale=en&theme=tokyonight" alt="jh010303" /></p>
 
-<br/><br/>
+
 ## :pencil2: Algorithm
 <!-- solved.ac 프로필 -->
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jh010303)](https://solved.ac/jh010303)
