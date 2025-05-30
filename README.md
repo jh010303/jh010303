@@ -1,5 +1,6 @@
 ## :eyes: 자기소개
 :mortar_board: 상명대 컴퓨터과학과 4학년 재학 중 <br/><br/>
+
 :fire: 백엔드 개발자가 목표에요 <br/><br/><br/>
 
 ## 📢 활동
@@ -9,17 +10,28 @@
 ## :trophy: 대외활동
 - 멋쟁이사자처럼 중앙 아이디어톤 수상 (3위) <br/><br/><br/>
 
-## 🧱 스택
-### Language
+<!-- 기술 스택 -->
+## 💻 Tech Stacks
+<p>
+  <img src="https://img.shields.io/badge/Java-b07219?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+</p>
 
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> 
-
-### Framework
-<img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"/> 
-
-### ETC 
-<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/amazonwebservices-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
-
+<!-- 사용한 언어 순위 카드 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jh010303&layout=compact&theme=algolia)
+<!-- GitHub Stats Card -->
+[![jh010303's GitHub stats](https://github-readme-stats.vercel.app/api?username=jh010303&show_icons=true&theme=tokyonight)](https://github.com/jh010303/github-readme-stats)
+<!-- solved.ac 프로필 -->
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jh010303)](https://solved.ac/jh010303)
 
   <!--JavaScript-->
 <!--
