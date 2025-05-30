@@ -1,15 +1,3 @@
-## :eyes: 자기소개
-:mortar_board: 상명대 컴퓨터과학과 4학년 재학 중 <br/><br/>
-
-:fire: 백엔드 개발자가 목표에요 <br/><br/><br/>
-
-## 📢 활동
-- 프로메테우스 AI 동아리 1기 운영진
-- 멋쟁이사자처럼 대학 12기 백엔드 (Django) <br/><br/><br/>
-
-## :trophy: 대외활동
-- 멋쟁이사자처럼 중앙 아이디어톤 수상 (3위) <br/><br/><br/>
-
 <!-- 기술 스택 -->
 ## 💻 Tech Stacks
 <p>
@@ -30,9 +18,17 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jh010303&layout=compact&theme=algolia)
 <!-- GitHub Stats Card -->
 [![jh010303's GitHub stats](https://github-readme-stats.vercel.app/api?username=jh010303&show_icons=true&theme=tokyonight)](https://github.com/jh010303/github-readme-stats)
+<br/><br/>
+## Algorithm
 <!-- solved.ac 프로필 -->
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jh010303)](https://solved.ac/jh010303)
-
+<br/><br/>
+## 📢 Activities
+- 프로메테우스 AI 동아리 1기 운영진
+- 멋쟁이사자처럼 대학 12기 백엔드 (Django) 
+<br/><br/>
+## :trophy: Awards
+- 멋쟁이사자처럼 중앙 아이디어톤 수상 (3위) 
   <!--JavaScript-->
 <!--
 **jh010303/jh010303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
