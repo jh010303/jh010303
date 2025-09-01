@@ -1,4 +1,7 @@
 <!-- 기술 스택 -->
+## 📖 portfolio
+https://www.notion.so/2613742b232180f5b2a6e5b0961b5736?source=copy_link
+
 ## 💻 Tech Stacks
 <p>
   <img src="https://img.shields.io/badge/Java-b07219?style=flat-square&logo=java&logoColor=white"/>
