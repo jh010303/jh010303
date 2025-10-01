@@ -41,7 +41,11 @@ https://www.notion.so/2613742b232180f5b2a6e5b0961b5736?source=copy_link
 - 멋쟁이사자처럼 대학 12기 백엔드 (Django) 
 <br/><br/>
 ## :trophy: Awards
-- 멋쟁이사자처럼 중앙 아이디어톤 수상 (3위) 
+- 2025학년도 1학기 교내 창업 사업계획서 경진대회 대상
+- 멋쟁이사자처럼 중앙 아이디어톤 수상 (3위)
+<br/><br/>
+## 🏅 Education
+- 정보처리기사 
   <!--JavaScript-->
 <!--
 **jh010303/jh010303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
