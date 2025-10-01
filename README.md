@@ -45,7 +45,7 @@ https://www.notion.so/2613742b232180f5b2a6e5b0961b5736?source=copy_link
 - 멋쟁이사자처럼 중앙 아이디어톤 수상 (3위)
 <br/><br/>
 ## 🏅 Education
-- 정보처리기사 
+- 정보처리기사 ( 9/12 )
   <!--JavaScript-->
 <!--
 **jh010303/jh010303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
