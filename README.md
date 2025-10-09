@@ -39,10 +39,12 @@
 <br/><br/>
 ## :trophy: Awards
 - 2025학년도 1학기 교내 창업 사업계획서 경진대회 대상
+- 2025학년도 한이음 장려상 후보
 - 멋쟁이사자처럼 중앙 아이디어톤 수상 (3위)
 <br/><br/>
 ## 🏅 Education
 - 정보처리기사 ( 9/12 )
+- TOEIC 810
   <!--JavaScript-->
 <!--
 **jh010303/jh010303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
