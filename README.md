@@ -35,16 +35,19 @@
 <br/><br/>
 ## 📢 Activities
 - 프로메테우스 AI 동아리 1기 운영진
-- 멋쟁이사자처럼 대학 12기 백엔드 (Django) 
+- 멋쟁이사자처럼 대학 12기 백엔드 (Django)
+- SSAFY 15기
 <br/><br/>
 ## :trophy: Awards
-- 2025학년도 1학기 교내 창업 사업계획서 경진대회 대상
-- 2025학년도 한이음 장려상 후보
 - 멋쟁이사자처럼 중앙 아이디어톤 수상 (3위)
+- 2025년 1학기 교내 창업 사업계획서 경진대회 대상
+- 2025년 한이음 장려상
+- 2025년 컴퓨터과학과 캡스톤 디자인 대상
+- 2025년 교내 캡스톤 디자인 장려상
 <br/><br/>
 ## 🏅 Education
-- 정보처리기사 ( 9/12 )
-- TOEIC 810
+- 정보처리기사, SQLD
+- TOEIC 810, OPIC IH
   <!--JavaScript-->
 <!--
 **jh010303/jh010303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
