@@ -47,7 +47,7 @@
 <br/><br/>
 ## 🏅 Education
 - 정보처리기사, SQLD
-- TOEIC 810, OPIC IH
+- TOEIC: 810, OPIC: IH
   <!--JavaScript-->
 <!--
 **jh010303/jh010303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
