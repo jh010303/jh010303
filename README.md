@@ -36,7 +36,7 @@
 ## 📢 Activities
 - 프로메테우스 AI 동아리 1기 운영진
 - 멋쟁이사자처럼 대학 12기 백엔드 (Django)
-- SSAFY 15기
+- SSAFY Java 전공 15기
 <br/><br/>
 ## :trophy: Awards
 - 멋쟁이사자처럼 중앙 아이디어톤 수상 (3위)
