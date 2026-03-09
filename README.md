@@ -34,9 +34,9 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jh010303)](https://solved.ac/jh010303)
 <br/><br/>
 ## 📢 Activities
-- 프로메테우스 AI 동아리 1기 운영진
-- 멋쟁이사자처럼 대학 12기 백엔드 (Django)
-- SSAFY Java 전공 15기
+- 프로메테우스 AI 동아리 1기 운영진 (2021.08 ~ 2022.06)
+- 멋쟁이사자처럼 대학 12기 백엔드 (2023.03 ~ 2023.09)
+- SSAFY Java 전공 15기 (2026.03 ~ )
 <br/><br/>
 ## :trophy: Awards
 - 멋쟁이사자처럼 중앙 아이디어톤 수상 (3위)
