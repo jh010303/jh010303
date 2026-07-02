@@ -19,10 +19,6 @@
   <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/>
 
-</p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jh010303&show_icons=true&locale=en&layout=compact&theme=algolia" alt="jh010303" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jh010303&show_icons=true&locale=en&theme=tokyonight" alt="jh010303" /></p>
 
 
 ## :pencil2: Algorithm
